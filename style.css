@@ -76,6 +76,10 @@ header nav ul li a{
     text-decoration: none;
 }
 
+header nav ul li a:hover{
+  color: #6b6a6a;
+}
+
 #home {
     /* background-color: #443e3e; */
     /* height: 300px;
